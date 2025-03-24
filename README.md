@@ -14,7 +14,7 @@
 
 ## 📜 BibTeX
 ```bibtex
-@article{xxx,
+@article{gu2025tensoflow,
   title={TensoFlow: Tensorial Flow-based Sampler for Inverse Rendering},
   author={Gu, Chun and Wei, Xiaofei and Zhang, Li and Zhu, Xiatian},
   journal={arXiv preprint},
