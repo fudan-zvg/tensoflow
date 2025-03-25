@@ -1,7 +1,7 @@
 # TensoFlow: Tensorial Flow-based Sampler for Inverse Rendering
-### [[Paper]]() 
+### [[Paper]](https://arxiv.org/abs/2503.18328) 
 
-> [**TensoFlow: Tensorial Flow-based Sampler for Inverse Rendering**](),            
+> [**TensoFlow: Tensorial Flow-based Sampler for Inverse Rendering**](https://arxiv.org/abs/2503.18328),            
 > [Chun Gu](https://sulvxiangxin.github.io/), Xiaofei Wei, [Li Zhang](https://lzrobots.github.io), [Xiatian Zhu](https://surrey-uplab.github.io/)  
 > **CVPR 2025**
 
