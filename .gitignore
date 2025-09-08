@@ -1,0 +1,8 @@
+*/__pycache__/*
+__pycache__
+/data/*
+outputs
+nerf_data
+0.png
+*.pt
+rebuttal2/
